@@ -2,7 +2,7 @@
 
 This is a ResUaddNet basic using UNet but
 the concat operation change to add operatin,
-and combing the residual block.
+and combing with the residual block.
 
 We set the angle interval is 10 degree, so 
 the total projection number is 18(because 
