@@ -13,9 +13,8 @@ like the resnet_v2's residual block:
 
      bn->relu->conv->bn->relu->conv
 
-Here is the loss curve.The begin loss is 
-0.6779, the final loss is 0.0005.
-![image](https://github.com/PaulGitt/CT_LimitAngleReconstruction_ResUaddNet/blob/master/loss.jpg)
+Here is the loss curve.The begin loss is 0.2223, the final loss is 0.000048677.
+![image](https://github.com/PaulGitt/CT_LimitAngleReconstruction_ResUaddNet/blob/master/loss_1.jpg)
 
 The final reconstruction result is below.
 There are three row, each column represent
